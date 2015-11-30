@@ -1,0 +1,7 @@
+c:\MyProjects\LineOrder39\UnitTestProject2\bin\Debug\UnitTestProject2.dll
+c:\MyProjects\LineOrder39\UnitTestProject2\bin\Debug\UnitTestProject2.pdb
+c:\MyProjects\LineOrder39\UnitTestProject2\obj\Debug\UnitTestProject2.csprojResolveAssemblyReference.cache
+c:\MyProjects\LineOrder39\UnitTestProject2\obj\Debug\UnitTestProject2.dll
+c:\MyProjects\LineOrder39\UnitTestProject2\obj\Debug\UnitTestProject2.pdb
+c:\MyProjects\LineOrder39\UnitTestProject2\bin\Debug\ConsoleApplication1.exe
+c:\MyProjects\LineOrder39\UnitTestProject2\bin\Debug\ConsoleApplication1.pdb

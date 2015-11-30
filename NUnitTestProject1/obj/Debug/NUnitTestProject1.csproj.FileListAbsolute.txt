@@ -1,0 +1,15 @@
+c:\MyProjects\LineOrder39\NUnitTestProject1\bin\Debug\NUnitTestProject1.dll
+c:\MyProjects\LineOrder39\NUnitTestProject1\bin\Debug\NUnitTestProject1.pdb
+c:\MyProjects\LineOrder39\NUnitTestProject1\bin\Debug\ConsoleApplication1.exe
+c:\MyProjects\LineOrder39\NUnitTestProject1\bin\Debug\mscorlib.dll
+c:\MyProjects\LineOrder39\NUnitTestProject1\bin\Debug\nunit.framework.dll
+c:\MyProjects\LineOrder39\NUnitTestProject1\bin\Debug\ConsoleApplication1.pdb
+c:\MyProjects\LineOrder39\NUnitTestProject1\bin\Debug\nunit.framework.xml
+c:\MyProjects\LineOrder39\NUnitTestProject1\bin\Debug\normidna.nlp
+c:\MyProjects\LineOrder39\NUnitTestProject1\bin\Debug\normnfc.nlp
+c:\MyProjects\LineOrder39\NUnitTestProject1\bin\Debug\normnfd.nlp
+c:\MyProjects\LineOrder39\NUnitTestProject1\bin\Debug\normnfkc.nlp
+c:\MyProjects\LineOrder39\NUnitTestProject1\bin\Debug\normnfkd.nlp
+c:\MyProjects\LineOrder39\NUnitTestProject1\obj\Debug\NUnitTestProject1.csprojResolveAssemblyReference.cache
+c:\MyProjects\LineOrder39\NUnitTestProject1\obj\Debug\NUnitTestProject1.dll
+c:\MyProjects\LineOrder39\NUnitTestProject1\obj\Debug\NUnitTestProject1.pdb

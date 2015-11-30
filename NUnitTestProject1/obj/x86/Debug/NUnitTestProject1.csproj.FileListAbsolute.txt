@@ -1,0 +1,9 @@
+c:\MyProjects\LineOrder39\NUnitTestProject1\bin\x86\Debug\NUnitTestProject1.dll
+c:\MyProjects\LineOrder39\NUnitTestProject1\bin\x86\Debug\NUnitTestProject1.pdb
+c:\MyProjects\LineOrder39\NUnitTestProject1\bin\x86\Debug\ConsoleApplication1.exe
+c:\MyProjects\LineOrder39\NUnitTestProject1\bin\x86\Debug\nunit.framework.dll
+c:\MyProjects\LineOrder39\NUnitTestProject1\bin\x86\Debug\ConsoleApplication1.pdb
+c:\MyProjects\LineOrder39\NUnitTestProject1\bin\x86\Debug\nunit.framework.xml
+c:\MyProjects\LineOrder39\NUnitTestProject1\obj\x86\Debug\NUnitTestProject1.csprojResolveAssemblyReference.cache
+c:\MyProjects\LineOrder39\NUnitTestProject1\obj\x86\Debug\NUnitTestProject1.dll
+c:\MyProjects\LineOrder39\NUnitTestProject1\obj\x86\Debug\NUnitTestProject1.pdb
